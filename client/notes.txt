@@ -1,0 +1,8 @@
+
+
+
+npm install 
+
+npm init -y
+
+npm install cors dotenv express openai
